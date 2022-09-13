@@ -1,0 +1,39 @@
+#header1 {
+  color: #FFFFFF;
+  background-color: #000000;
+}
+
+.header2 {
+  color: #F1EF64;
+  background-color: #000000;
+}
+
+.header3 {
+  color: #38F735;
+  background-color: #000000;
+}
+
+.header4 {
+  color: #335AF4;
+  background-color: #000000;
+}
+
+a:link {
+  color: #E10E0E;
+}
+
+a:hover {
+  color: #F6F933;
+}
+
+a:visited {
+  color: #18A930;
+}
+
+.div1 {
+  background-color: #F89A9A;
+}
+
+.span1 {
+  color: #3ADFE7;
+}
