@@ -1,0 +1,54 @@
+a {
+  text-decoration: none;
+  color: #21F01D;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #E41515;
+}
+
+.header1 {
+  color: #FFFFFF;
+}
+
+.header1body {
+  background-color: #60AFEB;
+}
+
+.header2 {
+  color: #1784D7;
+}
+
+.header2bodyspan {
+  color: #EFC82E;
+}
+
+.header3 {
+  background-color: #EAEE20;
+}
+
+.header3body {
+  color: #E93939;
+}
+
+.header4 {
+  color: #EDEA2A;
+  background-color: #2AAA17;
+}
+
+.header4body {
+  background-color: #55E93E;
+}
+
+.header5 {
+  color: #E91A1A;
+}
+
+.header5body {
+  background-color: #ECEF2E;
+}
+
+.header5bodyspan {
+  color: #1721D7;
+}
