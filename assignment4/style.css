@@ -1,0 +1,71 @@
+#header1 {
+  color: #F6CD2C;
+  background-color: #000000;
+  font-weight: normal;
+  font-style: italic;
+}
+
+.header2 {
+  color: #F6CD2C;
+  background-color: #000000;
+  font-family: sans-serif;
+  font-weight: normal;
+  font-style: italic;
+}
+
+.header3 {
+  color: #F6CD2C;
+  background-color: #000000;
+  font-family: sans-serif;
+  font-weight: normal;
+  font-style: italic;
+}
+
+.header4 {
+  color: #F6CD2C;
+  background-color: #000000;
+  font-family: sans-serif;
+  font-weight: normal;
+  font-style: italic;
+}
+
+a {
+  color: #E10E0E;
+}
+
+a:visited {
+  color: #18A930;
+}
+
+a:hover {
+  color: #F6F933;
+}
+
+.div1 {
+  background-color: #F89A9A;
+  text-align: center;
+}
+
+.span1 {
+  color: #3ADFE7;
+}
+
+.customtext {
+  font-family: sans-serif;
+}
+
+.customtext1 {
+  font-family: sans-serif;
+  text-align: justify;
+}
+
+.image {
+  border: 10px solid black;
+  padding: 20px 20px 20px 20px;
+}
+
+body {
+  background-image: url(reggie.jpg);
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
