@@ -1,0 +1,77 @@
+body {
+  background-image: url(a5bg.png);
+  background-repeat: repeat;
+}
+
+.h1 {
+  font-family: Helvetica;
+  font-weight: none;
+  border: 2px solid white;
+  padding: 20px;
+  background-color: white;
+}
+
+#h2 {
+  font-family: Helvetica;
+  border: 2px solid white;
+  background-color: white;
+  font-weight: bold;
+  border-bottom: 3px solid black;
+  padding: 0px 0px 10px 0px
+}
+
+.text1 {
+  border: 2px solid white;
+  background-color: white;
+  text-align: justify;
+  padding: 20px;
+}
+
+.footer1 {
+  font-family: Verdana;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+  border: 2px solid white;
+  background-color: #000099;
+  color: white;
+  padding: 30px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  background-color: #000099;
+  border: #000099;
+  margin: 20px 10px 20px 0px;
+  width: 200px;
+  display: inline-block;
+}
+
+nav li a {
+  color: white;
+  text-decoration: none;
+  display: block;
+  padding: 10px;
+  font-weight: none;
+}
+
+nav li a:hover {
+  font-weight: none;
+  background-color: blue;
+}
+
+p a {
+  color: blue;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+p a:hover {
+  color: red;
+  text-decoration: underline;
+}
