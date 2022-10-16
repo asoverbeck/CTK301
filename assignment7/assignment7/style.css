@@ -1,0 +1,129 @@
+body {
+  background-color: gray;
+}
+
+#wrapper {
+  margin: 1em auto;
+  padding: 0;
+  width: 961px;
+  border: 5px solid blue;
+  background-color: white;
+  display: grid;
+  grid-template-columns: (12, 1fr);
+}
+
+header {
+  grid-column: span 12;
+}
+
+nav {
+  grid-column: span 12;
+  text-align: center;
+  border-bottom: 5px solid blue;
+}
+
+main {
+  grid-column: span 12;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+footer {
+  grid-column: span 12;
+  background-color: red;
+  border-top: 5px solid blue;
+  padding: 10px;
+}
+
+h1 a {
+  color: lightblue;
+  text-decoration: none;
+}
+
+h1 a:hover {
+  color: red;
+  text-decoration: underline;
+}
+
+.header1 {
+  font-family: Helvetica, sans-serif;
+  font-weight: normal;
+  color: lightblue;
+  margin-left: 40px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin:0;
+  padding: 0;
+}
+
+nav li {
+  border: 1px solid blue;
+  padding: 0;
+  margin: 10px;
+  width: 150px;
+  background-color: darkblue;
+  display: inline-block;
+}
+
+nav li a {
+  color: lightblue;
+  text-decoration: none;
+  font-weight: bold;
+  text-align: center;
+  padding: 10px;
+  background-color: darkblue;
+  display: block;
+}
+
+nav li a:hover {
+  background-color: blue;
+}
+
+.backgrounddarkblue {
+  background-color: darkblue;
+}
+
+.header2 {
+  color: blue;
+  font-weight: normal;
+  border-bottom: 3px solid blue;
+}
+
+.paragraph1 {
+  font-weight: bold;
+  text-align: justify;
+}
+
+.floatimage {
+  float: left;
+  margin-right: 10px;
+  border: 3px solid blue;
+}
+
+.floatimage2 {
+  float: right;
+  margin-left: 10px;
+  border: 3px solid blue;
+}
+
+.image3 {
+  border: 3px solid blue;
+  margin-right: 10px;
+}
+
+span a {
+  color: red;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+span a:hover {
+  color: blue;
+  text-decoration: underline;
+}
+
+.isuimage {
+  margin-left: 30px;
+}
