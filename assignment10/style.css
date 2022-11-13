@@ -15,13 +15,22 @@ header {
   font-style: italic;
 }
 
+h1 {
+  font-family: 'Creepster', cursive;
+}
+
 main {
   grid-column: span 12;
 }
 
 .AObanner {
   margin-top: 24px;
-  margin-left: 400px;
+  margin-left: 625px;
+  padding: 10px;
+  width: 250px;
+  border: 2px solid #999;
+  background-color: #ccc;
+  border-radius: 10px;
 }
 
 nav {
@@ -65,4 +74,8 @@ footer {
 .header2 {
   color: white;
   text-align: center;
+}
+
+footer a {
+  font-size: 50px;
 }
