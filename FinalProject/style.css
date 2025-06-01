@@ -29,7 +29,7 @@ main audio {
 .mainimg {
   margin-left: 500px;
   padding: 10px;
-  width: 140px;
+  width: 180px;
   height: 250px;
   float: left;
 }
@@ -40,7 +40,7 @@ main audio {
 
 .fancybox {
   margin-top: 24px;
-  margin-left: 625px;
+  margin-left: 825px;
   padding: 10px;
   width: 250px;
 }
